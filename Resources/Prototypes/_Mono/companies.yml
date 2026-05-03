@@ -226,6 +226,16 @@
   logins:
   - Notarin
 
+- type: company
+  id: AA
+  form: Protagonist
+  name: Andile Association
+  color: "#757E66"
+  disabled: true # MUH HIGHLY PERSONAL BLING
+  logins:
+  - Ayyluska
+  - Zaelly
+
 # ====Rogue / Antag. Companies====
 - type: company
   id: TheViperGroup
